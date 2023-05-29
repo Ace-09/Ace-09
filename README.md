@@ -30,9 +30,9 @@
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=Ace-09&theme=default)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ace-09&show_icons=true&locale=en&layout=compact" alt="ace-09" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ace-09&show_icons=true&locale=en&layout=compact" alt="ace-09" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ace-09&show_icons=true&locale=en" alt="ace-09" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ace-09&&show_icons=true&theme=light" alt="ace-09" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ace-09&" alt="ace-09" /></p>
 
