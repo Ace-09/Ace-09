@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Java, JS**
 
-- 📫 Reach me at **nimlohumi34@gmail.com**
+- 📫 Reach me at **nimlohumi34@gmail.com** 
 
 - ⚡ Fun fact **I play guitar and interested in palmistry.**
 
